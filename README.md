@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on becoming a Backend Developer
-- 🌱 I’m currently learning Go (Golang), Python
+- Python language proficiency: Intermediate
+- 🌱 I’m currently learning Go (Golang).
 - ⚡ Fun fact: All Humans Are 99.9% Genetically Identical and 98.4% of human genes are the same as the genes of a chimpanzee.
 <!--
 **Abdussalam-Baruwa/Abdussalam-Baruwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
