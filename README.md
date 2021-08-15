@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on becoming a Backend Developer
-- Python language proficiency: Intermediate
+- 💬 Python language proficiency: Intermediate
 - 🌱 I’m currently learning Go (Golang).
 - ⚡ Fun fact: All Humans Are 99.9% Genetically Identical and 98.4% of human genes are the same as the genes of a chimpanzee.
 <!--
