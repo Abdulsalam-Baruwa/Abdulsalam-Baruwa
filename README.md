@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on becoming a Frontend Developer
-- 💬 Python language proficiency: Intermediate
+- 🔭 I’m currently working on becoming a Software Engineer.
+- 🌱 I’m currently learning Bash and C.
 - ⚡ Fun fact: All Humans Are 99.9% Genetically Identical and 98.4% of human genes are the same as the genes of a chimpanzee.
 <!--
 **Abdussalam-Baruwa/Abdussalam-Baruwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
