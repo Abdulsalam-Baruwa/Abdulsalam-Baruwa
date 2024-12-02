@@ -3,11 +3,10 @@
 <p>My name is Abdulsalam Baruwa and I am a developer constantly learning and growing my skills. I'm also excited to contribute to the tech community.</p>
 </div>
 
-<div align="center">
+<div align="left">
   
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsalam-baruwa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21849769) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dmystical_coder) 
-[![](https://visitcount.itsvg.in/api?id=dmystical-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
  
@@ -24,11 +23,14 @@
 ## 📊 GitHub Stats:
 <div>
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=dmystical-coder&theme=onedark&hide_border=false)
+[![](https://visitcount.itsvg.in/api?id=dmystical-coder&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmystical-coder&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
 
 ![](https://github-readme-stats.vercel.app/api?username=dmystical-coder&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmystical-coder&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dmystical-coder&theme=onedark&hide_border=false)
+
 </div>
 
 ## 🏆 GitHub Trophies
